@@ -16,7 +16,6 @@ static double l2=0;
 		System.out.println("Introduce altura del triangulo");
 		l2=in.nextDouble();
 		System.out.println("El area del triangulo es "+ l1 + " x "+ l2 + " = "+ ((l1*l2)/2));
-		
 	}
 
 }
